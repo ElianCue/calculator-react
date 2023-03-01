@@ -1,0 +1,35 @@
+.component-button{
+    display: inline-flex;
+    width: 25%;
+    flex: 1 0 auto;
+
+}
+
+.component-button button{
+    background: #e0e0e0;
+    border: 0;
+    font-size: 2em;
+    margin: 0 1px 0 0;
+    flex: 1 0 auto;
+}
+
+.component-button.blueDark button{
+    background: #001d3d;
+    color: white;
+}
+.component-button.yellow button{
+    background: #ffc300;
+    color: white;
+}
+.component-button.gray button{
+    background: #E8EEFD;
+    color: white;
+}
+.component-button.mustard button{
+    background: #003566;
+    color: white;
+}
+
+.component-button.width{
+    width: 50%;
+}

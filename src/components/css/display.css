@@ -1,0 +1,14 @@
+.component-display{
+    background: #003670;
+    color: #fff;
+    text-align: center;
+    padding: 15px 10px;
+    width: 100%;
+    border-radius: 5px;
+
+}
+
+.component-display{
+    font-size: 3em;
+    font-weight: bold;
+}
